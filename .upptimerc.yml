@@ -7,14 +7,6 @@ sites:
     url: https://joshbeard.me
   - name: home.jbeard.dev
     url: https://home.jbeard.dev
-  - name: jbeard.co
-    url: https://jbeard.co
-    expectedStatusCodes:
-      - 200
-      - 301
-      - 302
-  - name: jbeard.org
-    url: https://jbeard.org
   - name: resume
     url: https://joshbeard.me/resume/
   - name: gemini-jbeard.co
@@ -29,6 +21,16 @@ sites:
     url: jbeard.co
     port: 79
     check: "tcp-ping"
+  - name: jbeard.co
+    url: https://jbeard.co
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+  - name: jbeard.org
+    url: https://jbeard.org
+  - name: jbeard.dev
+    url: https://jbeard.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -44,6 +46,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: joshbeard.me
+      href: https://joshbeard.me
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
