@@ -9,16 +9,31 @@ sites:
     url: https://home.jbeard.dev
   - name: jbeard.co
     url: https://jbeard.co
+    expectedStatusCodes:
+      - 301
+      - 302
   - name: jbeard.org
     url: https://jbeard.org
   - name: resume
     url: https://joshbeard.me/resume/
+  - name: gemini-jbeard.co
+    url: jbeard.co
+    port: 1965
+    check: "tcp-ping"
+  - name: gopher-jbeard.co
+    url: jbeard.co
+    port: 70
+    check: "tcp-ping"
+  - name: finger-jbeard.co
+    url: jbeard.co
+    port: 79
+    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.jbeard.dev
-  # baseUrl: /your-repo-name
+  #cname: status.jbeard.dev
+  baseUrl: /jbeard-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: JBeard Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
