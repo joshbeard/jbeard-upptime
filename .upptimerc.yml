@@ -10,6 +10,7 @@ sites:
   - name: jbeard.co
     url: https://jbeard.co
     expectedStatusCodes:
+      - 200
       - 301
       - 302
   - name: jbeard.org
