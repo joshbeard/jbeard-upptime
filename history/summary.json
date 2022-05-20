@@ -22,18 +22,20 @@
     "url": "https://home.jbeard.dev",
     "icon": "https://favicons.githubusercontent.com/home.jbeard.dev",
     "slug": "home-jbeard-dev",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 305,
-    "timeDay": 258,
+    "timeDay": 267,
     "timeWeek": 274,
     "timeMonth": 305,
     "timeYear": 305,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-20": 2
+    }
   },
   {
     "name": "resume",
@@ -58,10 +60,10 @@
     "url": "jbeard.co",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gemini-jbeard-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 77,
@@ -69,34 +71,38 @@
     "timeWeek": 68,
     "timeMonth": 77,
     "timeYear": 77,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-20": 1
+    }
   },
   {
     "name": "gopher-jbeard.co",
     "url": "jbeard.co",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gopher-jbeard-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 62,
-    "timeDay": 49,
+    "timeDay": 50,
     "timeWeek": 59,
     "timeMonth": 62,
     "timeYear": 62,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-20": 0
+    }
   },
   {
     "name": "finger-jbeard.co",
     "url": "jbeard.co",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "finger-jbeard-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +111,9 @@
     "timeWeek": 57,
     "timeMonth": 61,
     "timeYear": 61,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-20": 0
+    }
   },
   {
     "name": "jbeard.co",
@@ -119,7 +127,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
     "time": 240,
-    "timeDay": 182,
+    "timeDay": 177,
     "timeWeek": 204,
     "timeMonth": 240,
     "timeYear": 240,
