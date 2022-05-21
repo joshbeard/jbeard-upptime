@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 93,
-    "timeWeek": 117,
+    "timeDay": 126,
+    "timeWeek": 106,
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {}
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/home.jbeard.dev",
     "slug": "home-jbeard-dev",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 306,
-    "timeDay": 303,
-    "timeWeek": 281,
-    "timeMonth": 306,
-    "timeYear": 306,
-    "dailyMinutesDown": {
-      "2022-05-20": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 303,
+    "timeDay": 263,
+    "timeWeek": 272,
+    "timeMonth": 303,
+    "timeYear": 303,
+    "dailyMinutesDown": {}
   },
   {
     "name": "resume",
@@ -49,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 28,
-    "timeDay": 15,
-    "timeWeek": 21,
+    "timeDay": 22,
+    "timeWeek": 19,
     "timeMonth": 28,
     "timeYear": 28,
     "dailyMinutesDown": {}
@@ -61,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gemini-jbeard-co",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 77,
-    "timeDay": 67,
-    "timeWeek": 68,
-    "timeMonth": 77,
-    "timeYear": 77,
-    "dailyMinutesDown": {
-      "2022-05-20": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 76,
+    "timeDay": 60,
+    "timeWeek": 65,
+    "timeMonth": 76,
+    "timeYear": 76,
+    "dailyMinutesDown": {}
   },
   {
     "name": "gopher-jbeard.co",
@@ -81,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gopher-jbeard-co",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 62,
-    "timeDay": 59,
-    "timeWeek": 59,
-    "timeMonth": 62,
-    "timeYear": 62,
-    "dailyMinutesDown": {
-      "2022-05-20": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 61,
+    "timeDay": 52,
+    "timeWeek": 56,
+    "timeMonth": 61,
+    "timeYear": 61,
+    "dailyMinutesDown": {}
   },
   {
     "name": "finger-jbeard.co",
@@ -101,19 +95,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "finger-jbeard-co",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 61,
-    "timeDay": 56,
-    "timeWeek": 57,
+    "timeDay": 49,
+    "timeWeek": 53,
     "timeMonth": 61,
     "timeYear": 61,
-    "dailyMinutesDown": {
-      "2022-05-20": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "jbeard.co",
@@ -126,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 240,
-    "timeDay": 177,
-    "timeWeek": 204,
-    "timeMonth": 240,
-    "timeYear": 240,
+    "time": 237,
+    "timeDay": 142,
+    "timeWeek": 191,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2022-04-30": 16
     }
@@ -146,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 162,
-    "timeDay": 244,
-    "timeWeek": 164,
-    "timeMonth": 162,
-    "timeYear": 162,
+    "time": 164,
+    "timeDay": 216,
+    "timeWeek": 168,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -164,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 63,
-    "timeWeek": 94,
-    "timeMonth": 134,
-    "timeYear": 134,
+    "time": 133,
+    "timeDay": 121,
+    "timeWeek": 96,
+    "timeMonth": 133,
+    "timeYear": 133,
     "dailyMinutesDown": {}
   }
 ]
