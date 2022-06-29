@@ -22,18 +22,19 @@
     "url": "https://home.jbeard.dev",
     "icon": "https://favicons.githubusercontent.com/home.jbeard.dev",
     "slug": "home-jbeard-dev",
-    "status": "up",
-    "uptime": "83.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.57%",
-    "uptimeYear": "83.13%",
+    "status": "down",
+    "uptime": "83.22%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "87.61%",
+    "uptimeYear": "83.22%",
     "time": 288,
     "timeDay": 299,
     "timeWeek": 262,
     "timeMonth": 271,
     "timeYear": 288,
     "dailyMinutesDown": {
+      "2022-06-29": 4,
       "2022-06-02": 130,
       "2022-06-01": 1440,
       "2022-05-31": 1440,
@@ -71,28 +72,30 @@
     "url": "jbeard.co",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gemini-jbeard-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 71,
     "timeDay": 63,
     "timeWeek": 58,
     "timeMonth": 67,
     "timeYear": 71,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-29": 3
+    }
   },
   {
     "name": "gopher-jbeard.co",
     "url": "jbeard.co",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gopher-jbeard-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 58,
@@ -100,17 +103,19 @@
     "timeWeek": 53,
     "timeMonth": 54,
     "timeYear": 58,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-29": 2
+    }
   },
   {
     "name": "finger-jbeard.co",
     "url": "jbeard.co",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "finger-jbeard-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 57,
@@ -118,16 +123,18 @@
     "timeWeek": 53,
     "timeMonth": 54,
     "timeYear": 57,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-29": 1
+    }
   },
   {
     "name": "jbeard.co",
     "url": "https://jbeard.co",
     "icon": "https://favicons.githubusercontent.com/jbeard.co",
     "slug": "jbeard-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -137,6 +144,7 @@
     "timeMonth": 205,
     "timeYear": 221,
     "dailyMinutesDown": {
+      "2022-06-29": 0,
       "2022-04-30": 16
     }
   },
