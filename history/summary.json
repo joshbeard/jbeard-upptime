@@ -22,18 +22,19 @@
     "url": "https://home.jbeard.dev",
     "icon": "https://favicons.githubusercontent.com/home.jbeard.dev",
     "slug": "home-jbeard-dev",
-    "status": "up",
-    "uptime": "85.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "85.09%",
+    "status": "down",
+    "uptime": "85.16%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "85.16%",
     "time": 281,
     "timeDay": 250,
     "timeWeek": 261,
     "timeMonth": 253,
     "timeYear": 281,
     "dailyMinutesDown": {
+      "2022-07-07": 2,
       "2022-06-29": 23,
       "2022-06-02": 130,
       "2022-06-01": 1440,
@@ -72,10 +73,10 @@
     "url": "jbeard.co",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gemini-jbeard-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 69,
@@ -84,6 +85,7 @@
     "timeMonth": 58,
     "timeYear": 69,
     "dailyMinutesDown": {
+      "2022-07-07": 1,
       "2022-06-29": 16
     }
   },
@@ -92,9 +94,9 @@
     "url": "jbeard.co",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gopher-jbeard-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -103,16 +105,18 @@
     "timeWeek": 42,
     "timeMonth": 50,
     "timeYear": 56,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-07": 0
+    }
   },
   {
     "name": "finger-jbeard.co",
     "url": "jbeard.co",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "finger-jbeard-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -121,7 +125,9 @@
     "timeWeek": 43,
     "timeMonth": 50,
     "timeYear": 56,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-07": 0
+    }
   },
   {
     "name": "jbeard.co",
